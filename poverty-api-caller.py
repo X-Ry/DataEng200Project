@@ -11,10 +11,10 @@ for year in range(1995,2022):
     povertyData = json.loads(html)
     #currDate = datetime.now()
     datelist = []
-    with open(f'povertyData_{year}.json', 'w') as outfile:
+    with open(f'data/povertyData_{year}.json', 'w') as outfile:
         json.dump(povertyData, outfile)
 
-filename = open('countyFIPS.csv', 'r')
+filename = open('data/countyFIPS.csv', 'r')
 file = csv.DictReader(filename)
 countyFIPS = []
 for col in file:
@@ -40,7 +40,7 @@ for id in range(0,len(countyFIPS)):
     time.sleep(0.5) #Sleep, otherwise API will throw a Captcha to prevent scraping
     print("still going "+str(id)+" "+str(len(countyFIPS)))
     fields = ['County ID', 'County Name', 'Property Value (Median)', 'Year']
-with open('countyDataAllYears.csv', 'w') as f:
+with open('data/countyDataAllYears.csv', 'w') as f:
     # using csv.writer method from CSV package
     write = csv.writer(f)
     write.writerow(fields)
