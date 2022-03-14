@@ -4,6 +4,15 @@ import json
 import csv
 import time
 
+# ----- Poverty + Income Data -----
+# Uses Census API to gather Poverty & Household Income Data by Year and County,
+# appends the Full County ID to each row of data,
+# and stores it in the povertyData_AllYears.csv file
+
+# SAEPOVALL_PT = All ages in Poverty, Count Estimate
+# SAEPOVRTALL_PT = All ages in Poverty, Rate Estimate
+# SAEMHI_PT = Median Household Income Estimate
+
 print("Gather Poverty + Income Data")
 with open(f'data/povertyData_AllYears.csv', 'w', newline='') as outfile:
     write = csv.writer(outfile)
@@ -20,17 +29,18 @@ with open(f'data/povertyData_AllYears.csv', 'w', newline='') as outfile:
         povertyData[0] = fields
         write.writerows(povertyData)
 
-#WORKING LINK for Education Percentage Data:
-#https://api.census.gov/data/2019/acs/acs5/profile?get=NAME,DP02_0060PE,DP02_0061PE,DP02_0062PE,DP02_0063PE,DP02_0064PE,DP02_0065PE,DP02_0066PE&for=county:*&in=state:*
-#explanation of labels here: https://api.census.gov/data/2019/acs/acs5/profile/groups/DP02.html
-#60PE - Less than 9th grade
-#61 - 9th to 12th grade
-#62 - High School graduate
-#63 - Some College
-#64 - Associate's Degree
-#65 - Bachelor's Degree
-#66 - Graduate or Professional Degree
-# the rest of the percentage is just "other", 67 - "high school grad OR GREATER"
+# ----- Education Data -----
+# Uses Census API to gather Educational Attainment Data by Year and County,
+# appends the Full County ID and Year to each row of data,
+# and stores it in the educationData_AllYears.csv file
+
+# DP02_0060PE - Less than 9th grade
+# DP02_0061PE - 9th to 12th grade
+# DP02_0062PE - High School graduate
+# DP02_0063PE - Some College
+# DP02_0064PE - Associate's Degree
+# DP02_0065PE - Bachelor's Degree
+# DP02_0066PE - Graduate or Professional Degree
 
 print("Gather Education Data")
 with open(f'data/educationData_AllYears.csv', 'w', newline='') as outfile:
@@ -52,8 +62,13 @@ with open(f'data/educationData_AllYears.csv', 'w', newline='') as outfile:
         educationData[0] = fields
         write.writerows(educationData)
 
+# ----- Unemployment Data -----
+# Uses Census API to gather Unemployment Rate Data by Year and County,
+# appends the Full County ID and Year to each row of data,
+# and stores it in the educationData_AllYears.csv file
 
-#DP03_0009PE - Percent!!EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate
+# DP03_0009PE = Unemployment Rate Percentage
+
 print("Gather Unemployment Data")
 with open(f'data/unemploymentData_AllYears.csv', 'w', newline='') as outfile:
     write = csv.writer(outfile)
@@ -70,13 +85,21 @@ with open(f'data/unemploymentData_AllYears.csv', 'w', newline='') as outfile:
         unemploymentData[0] = fields
         write.writerows(unemploymentData)
 
+# ----- Loading County FIPS Data -----
+# Loads a list of all USA County FIPS,
+# which is used to collect Property Value Data.
+
 print("Load County FIPS Data")
 filename = open('data/countyFIPS.csv', 'r')
 file = csv.DictReader(filename)
 countyFIPS = []
 for col in file:
     countyFIPS.append(col['FIPS'])
-print(countyFIPS)
+
+# ----- Property Value Data -----
+# Uses DataUSA API to gather Yearly Median Property Value Data by County,
+# saves data in a dictionary,
+# and writes data to the countyPropertyValueDataAllYears_Uncleaned.csv file
 
 print("Gather Property Value Data")
 medianPropertyValues = []
@@ -85,7 +108,6 @@ for id in range(0,len(countyFIPS)):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0'}
     dataResponse=requests.get('https://datausa.io/api/data?measure=Property%20Value,Property%20Value%20Moe&Geography=05000US'+countyID, timeout=300, headers = headers)
     idData = dataResponse.json()
-
     for idYear in idData['data']:
         yearValue = idYear['Year']
         propertyValue = idYear['Property Value']
