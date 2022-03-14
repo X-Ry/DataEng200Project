@@ -6,11 +6,11 @@ data - contains data files used in analysis
 
 Tableau Workbooks, containing analysis on:
 
-*Poverty vs. Income* -Poverty_Income_Analysis_Final.twb
+Poverty_Income_Analysis_Final.twb - *Poverty vs. Income* 
 
-*Poverty vs. Unemployment* - Poverty_Unemployment_Analysis_Final.twb
+Poverty_Unemployment_Analysis_Final.twb - *Poverty vs. Unemployment*
 
-*Poverty vs. Education* - Poverty_Education_Analysis_Final.twb
+Poverty_Education_Analysis_Final.twb - *Poverty vs. Education*
 
-*Poverty vs. Property Value* - Poverty_Poperty_Value_Analysis_Final.twb 
+Poverty_Poperty_Value_Analysis_Final.twb - *Poverty vs. Property Value* 
 
