@@ -1,4 +1,4 @@
-County ID,County Name,Property Value (Median),Year
+Full County ID,County Name,Property Value (Median),Year
 01001,"Autauga County, AL",154500,2019
 01001,"Autauga County, AL",147900,2018
 01001,"Autauga County, AL",143000,2017
@@ -594,13 +594,6 @@ County ID,County Name,Property Value (Median),Year
 02188,"Northwest Arctic Borough, AK",124500,2015
 02188,"Northwest Arctic Borough, AK",121900,2014
 02188,"Northwest Arctic Borough, AK",131000,2013
-02201,N/A,26011018223,2019
-02201,N/A,24761914673,2018
-02201,N/A,23555878911,2017
-02201,N/A,22540989893,2016
-02201,N/A,21820842355,2015
-02201,N/A,21333036637,2014
-02201,N/A,21356679795,2013
 02220,"Sitka City and Borough, AK",358600,2019
 02220,"Sitka City and Borough, AK",349300,2018
 02220,"Sitka City and Borough, AK",350900,2017
@@ -608,13 +601,6 @@ County ID,County Name,Property Value (Median),Year
 02220,"Sitka City and Borough, AK",338600,2015
 02220,"Sitka City and Borough, AK",335800,2014
 02220,"Sitka City and Borough, AK",323200,2013
-02232,N/A,26011018223,2019
-02232,N/A,24761914673,2018
-02232,N/A,23555878911,2017
-02232,N/A,22540989893,2016
-02232,N/A,21820842355,2015
-02232,N/A,21333036637,2014
-02232,N/A,21356679795,2013
 02240,"Southeast Fairbanks Census Area, AK",170900,2019
 02240,"Southeast Fairbanks Census Area, AK",184000,2018
 02240,"Southeast Fairbanks Census Area, AK",191700,2017
@@ -629,20 +615,6 @@ County ID,County Name,Property Value (Median),Year
 02261,"Valdez-Cordova Census Area, AK",200700,2015
 02261,"Valdez-Cordova Census Area, AK",193200,2014
 02261,"Valdez-Cordova Census Area, AK",177700,2013
-02270,N/A,26011018223,2019
-02270,N/A,24761914673,2018
-02270,N/A,23555878911,2017
-02270,N/A,22540989893,2016
-02270,N/A,21820842355,2015
-02270,N/A,21333036637,2014
-02270,N/A,21356679795,2013
-02280,N/A,26011018223,2019
-02280,N/A,24761914673,2018
-02280,N/A,23555878911,2017
-02280,N/A,22540989893,2016
-02280,N/A,21820842355,2015
-02280,N/A,21333036637,2014
-02280,N/A,21356679795,2013
 02282,"Yakutat City and Borough, AK",202300,2019
 02282,"Yakutat City and Borough, AK",169300,2018
 02282,"Yakutat City and Borough, AK",185000,2017
@@ -11549,13 +11521,6 @@ County ID,County Name,Property Value (Median),Year
 30111,"Yellowstone County, MT",192500,2015
 30111,"Yellowstone County, MT",186500,2014
 30111,"Yellowstone County, MT",181500,2013
-30113,N/A,26011018223,2019
-30113,N/A,24761914673,2018
-30113,N/A,23555878911,2017
-30113,N/A,22540989893,2016
-30113,N/A,21820842355,2015
-30113,N/A,21333036637,2014
-30113,N/A,21356679795,2013
 31001,"Adams County, NE",128500,2019
 31001,"Adams County, NE",118300,2018
 31001,"Adams County, NE",115300,2017
@@ -12592,13 +12557,13 @@ County ID,County Name,Property Value (Median),Year
 35011,"De Baca County, NM",67000,2015
 35011,"De Baca County, NM",84800,2014
 35011,"De Baca County, NM",79200,2013
-35013,"Doña Ana County, NM",147400,2019
-35013,"Doña Ana County, NM",141700,2018
-35013,"Doña Ana County, NM",140700,2017
-35013,"Doña Ana County, NM",137300,2016
-35013,"Doña Ana County, NM",138100,2015
-35013,"Doña Ana County, NM",137300,2014
-35013,"Doña Ana County, NM",139100,2013
+35013,"Doï¿½a Ana County, NM",147400,2019
+35013,"Doï¿½a Ana County, NM",141700,2018
+35013,"Doï¿½a Ana County, NM",140700,2017
+35013,"Doï¿½a Ana County, NM",137300,2016
+35013,"Doï¿½a Ana County, NM",138100,2015
+35013,"Doï¿½a Ana County, NM",137300,2014
+35013,"Doï¿½a Ana County, NM",139100,2013
 35015,"Eddy County, NM",155900,2019
 35015,"Eddy County, NM",148300,2018
 35015,"Eddy County, NM",143100,2017
@@ -16897,13 +16862,6 @@ County ID,County Name,Property Value (Median),Year
 46111,"Sanborn County, SD",75800,2015
 46111,"Sanborn County, SD",75400,2014
 46111,"Sanborn County, SD",68200,2013
-46113,N/A,26011018223,2019
-46113,N/A,24761914673,2018
-46113,N/A,23555878911,2017
-46113,N/A,22540989893,2016
-46113,N/A,21820842355,2015
-46113,N/A,21333036637,2014
-46113,N/A,21356679795,2013
 46115,"Spink County, SD",82800,2019
 46115,"Spink County, SD",79800,2018
 46115,"Spink County, SD",77300,2017
@@ -20384,13 +20342,6 @@ County ID,County Name,Property Value (Median),Year
 51510,"Alexandria city, VA",502500,2015
 51510,"Alexandria city, VA",494400,2014
 51510,"Alexandria city, VA",476700,2013
-51515,N/A,26011018223,2019
-51515,N/A,24761914673,2018
-51515,N/A,23555878911,2017
-51515,N/A,22540989893,2016
-51515,N/A,21820842355,2015
-51515,N/A,21333036637,2014
-51515,N/A,21356679795,2013
 51520,"Bristol city, VA",111700,2019
 51520,"Bristol city, VA",112200,2018
 51520,"Bristol city, VA",114100,2017
@@ -20419,13 +20370,6 @@ County ID,County Name,Property Value (Median),Year
 51550,"Chesapeake city, VA",253800,2015
 51550,"Chesapeake city, VA",254900,2014
 51550,"Chesapeake city, VA",261600,2013
-51560,N/A,26011018223,2019
-51560,N/A,24761914673,2018
-51560,N/A,23555878911,2017
-51560,N/A,22540989893,2016
-51560,N/A,21820842355,2015
-51560,N/A,21333036637,2014
-51560,N/A,21356679795,2013
 51570,"Colonial Heights city, VA",171700,2019
 51570,"Colonial Heights city, VA",168000,2018
 51570,"Colonial Heights city, VA",163300,2017
@@ -20615,13 +20559,6 @@ County ID,County Name,Property Value (Median),Year
 51775,"Salem city, VA",173100,2015
 51775,"Salem city, VA",172400,2014
 51775,"Salem city, VA",170300,2013
-51780,N/A,26011018223,2019
-51780,N/A,24761914673,2018
-51780,N/A,23555878911,2017
-51780,N/A,22540989893,2016
-51780,N/A,21820842355,2015
-51780,N/A,21333036637,2014
-51780,N/A,21356679795,2013
 51790,"Staunton city, VA",169000,2019
 51790,"Staunton city, VA",164800,2018
 51790,"Staunton city, VA",162500,2017
@@ -21987,83 +21924,6 @@ County ID,County Name,Property Value (Median),Year
 56045,"Weston County, WY",178200,2015
 56045,"Weston County, WY",160600,2014
 56045,"Weston County, WY",136000,2013
-60010,N/A,26011018223,2019
-60010,N/A,24761914673,2018
-60010,N/A,23555878911,2017
-60010,N/A,22540989893,2016
-60010,N/A,21820842355,2015
-60010,N/A,21333036637,2014
-60010,N/A,21356679795,2013
-60020,N/A,26011018223,2019
-60020,N/A,24761914673,2018
-60020,N/A,23555878911,2017
-60020,N/A,22540989893,2016
-60020,N/A,21820842355,2015
-60020,N/A,21333036637,2014
-60020,N/A,21356679795,2013
-60020,N/A,26011018223,2019
-60020,N/A,24761914673,2018
-60020,N/A,23555878911,2017
-60020,N/A,22540989893,2016
-60020,N/A,21820842355,2015
-60020,N/A,21333036637,2014
-60020,N/A,21356679795,2013
-60020,N/A,26011018223,2019
-60020,N/A,24761914673,2018
-60020,N/A,23555878911,2017
-60020,N/A,22540989893,2016
-60020,N/A,21820842355,2015
-60020,N/A,21333036637,2014
-60020,N/A,21356679795,2013
-60050,N/A,26011018223,2019
-60050,N/A,24761914673,2018
-60050,N/A,23555878911,2017
-60050,N/A,22540989893,2016
-60050,N/A,21820842355,2015
-60050,N/A,21333036637,2014
-60050,N/A,21356679795,2013
-66010,N/A,26011018223,2019
-66010,N/A,24761914673,2018
-66010,N/A,23555878911,2017
-66010,N/A,22540989893,2016
-66010,N/A,21820842355,2015
-66010,N/A,21333036637,2014
-66010,N/A,21356679795,2013
-66010,N/A,26011018223,2019
-66010,N/A,24761914673,2018
-66010,N/A,23555878911,2017
-66010,N/A,22540989893,2016
-66010,N/A,21820842355,2015
-66010,N/A,21333036637,2014
-66010,N/A,21356679795,2013
-69100,N/A,26011018223,2019
-69100,N/A,24761914673,2018
-69100,N/A,23555878911,2017
-69100,N/A,22540989893,2016
-69100,N/A,21820842355,2015
-69100,N/A,21333036637,2014
-69100,N/A,21356679795,2013
-69110,N/A,26011018223,2019
-69110,N/A,24761914673,2018
-69110,N/A,23555878911,2017
-69110,N/A,22540989893,2016
-69110,N/A,21820842355,2015
-69110,N/A,21333036637,2014
-69110,N/A,21356679795,2013
-69120,N/A,26011018223,2019
-69120,N/A,24761914673,2018
-69120,N/A,23555878911,2017
-69120,N/A,22540989893,2016
-69120,N/A,21820842355,2015
-69120,N/A,21333036637,2014
-69120,N/A,21356679795,2013
-69120,N/A,26011018223,2019
-69120,N/A,24761914673,2018
-69120,N/A,23555878911,2017
-69120,N/A,22540989893,2016
-69120,N/A,21820842355,2015
-69120,N/A,21333036637,2014
-69120,N/A,21356679795,2013
 72001,"Adjuntas Municipio, PR",83700,2019
 72001,"Adjuntas Municipio, PR",85200,2018
 72001,"Adjuntas Municipio, PR",81700,2017
@@ -22099,13 +21959,13 @@ County ID,County Name,Property Value (Median),Year
 72009,"Aibonito Municipio, PR",129600,2015
 72009,"Aibonito Municipio, PR",124800,2014
 72009,"Aibonito Municipio, PR",120200,2013
-72011,"Añasco Municipio, PR",87600,2019
-72011,"Añasco Municipio, PR",88800,2018
-72011,"Añasco Municipio, PR",91200,2017
-72011,"Añasco Municipio, PR",100400,2016
-72011,"Añasco Municipio, PR",114100,2015
-72011,"Añasco Municipio, PR",114400,2014
-72011,"Añasco Municipio, PR",110300,2013
+72011,"Aï¿½asco Municipio, PR",87600,2019
+72011,"Aï¿½asco Municipio, PR",88800,2018
+72011,"Aï¿½asco Municipio, PR",91200,2017
+72011,"Aï¿½asco Municipio, PR",100400,2016
+72011,"Aï¿½asco Municipio, PR",114100,2015
+72011,"Aï¿½asco Municipio, PR",114400,2014
+72011,"Aï¿½asco Municipio, PR",110300,2013
 72013,"Arecibo Municipio, PR",95300,2019
 72013,"Arecibo Municipio, PR",97400,2018
 72013,"Arecibo Municipio, PR",96600,2017
@@ -22134,13 +21994,13 @@ County ID,County Name,Property Value (Median),Year
 72019,"Barranquitas Municipio, PR",99000,2015
 72019,"Barranquitas Municipio, PR",107600,2014
 72019,"Barranquitas Municipio, PR",101800,2013
-72021,"Bayamón Municipio, PR",131700,2019
-72021,"Bayamón Municipio, PR",134900,2018
-72021,"Bayamón Municipio, PR",138200,2017
-72021,"Bayamón Municipio, PR",141100,2016
-72021,"Bayamón Municipio, PR",142800,2015
-72021,"Bayamón Municipio, PR",143300,2014
-72021,"Bayamón Municipio, PR",144500,2013
+72021,"Bayamï¿½n Municipio, PR",131700,2019
+72021,"Bayamï¿½n Municipio, PR",134900,2018
+72021,"Bayamï¿½n Municipio, PR",138200,2017
+72021,"Bayamï¿½n Municipio, PR",141100,2016
+72021,"Bayamï¿½n Municipio, PR",142800,2015
+72021,"Bayamï¿½n Municipio, PR",143300,2014
+72021,"Bayamï¿½n Municipio, PR",144500,2013
 72023,"Cabo Rojo Municipio, PR",107500,2019
 72023,"Cabo Rojo Municipio, PR",112400,2018
 72023,"Cabo Rojo Municipio, PR",114100,2017
@@ -22162,13 +22022,13 @@ County ID,County Name,Property Value (Median),Year
 72027,"Camuy Municipio, PR",100900,2015
 72027,"Camuy Municipio, PR",98900,2014
 72027,"Camuy Municipio, PR",96200,2013
-72029,"Canóvanas Municipio, PR",107500,2019
-72029,"Canóvanas Municipio, PR",110200,2018
-72029,"Canóvanas Municipio, PR",115900,2017
-72029,"Canóvanas Municipio, PR",116600,2016
-72029,"Canóvanas Municipio, PR",121100,2015
-72029,"Canóvanas Municipio, PR",121700,2014
-72029,"Canóvanas Municipio, PR",121400,2013
+72029,"Canï¿½vanas Municipio, PR",107500,2019
+72029,"Canï¿½vanas Municipio, PR",110200,2018
+72029,"Canï¿½vanas Municipio, PR",115900,2017
+72029,"Canï¿½vanas Municipio, PR",116600,2016
+72029,"Canï¿½vanas Municipio, PR",121100,2015
+72029,"Canï¿½vanas Municipio, PR",121700,2014
+72029,"Canï¿½vanas Municipio, PR",121400,2013
 72031,"Carolina Municipio, PR",139900,2019
 72031,"Carolina Municipio, PR",143900,2018
 72031,"Carolina Municipio, PR",146400,2017
@@ -22176,13 +22036,13 @@ County ID,County Name,Property Value (Median),Year
 72031,"Carolina Municipio, PR",152800,2015
 72031,"Carolina Municipio, PR",153700,2014
 72031,"Carolina Municipio, PR",155100,2013
-72033,"Cataño Municipio, PR",117700,2019
-72033,"Cataño Municipio, PR",119200,2018
-72033,"Cataño Municipio, PR",125000,2017
-72033,"Cataño Municipio, PR",127100,2016
-72033,"Cataño Municipio, PR",124300,2015
-72033,"Cataño Municipio, PR",127000,2014
-72033,"Cataño Municipio, PR",124600,2013
+72033,"Cataï¿½o Municipio, PR",117700,2019
+72033,"Cataï¿½o Municipio, PR",119200,2018
+72033,"Cataï¿½o Municipio, PR",125000,2017
+72033,"Cataï¿½o Municipio, PR",127100,2016
+72033,"Cataï¿½o Municipio, PR",124300,2015
+72033,"Cataï¿½o Municipio, PR",127000,2014
+72033,"Cataï¿½o Municipio, PR",124600,2013
 72035,"Cayey Municipio, PR",117200,2019
 72035,"Cayey Municipio, PR",117400,2018
 72035,"Cayey Municipio, PR",119500,2017
@@ -22211,13 +22071,13 @@ County ID,County Name,Property Value (Median),Year
 72043,"Coamo Municipio, PR",93200,2015
 72043,"Coamo Municipio, PR",92100,2014
 72043,"Coamo Municipio, PR",91200,2013
-72045,"Comerío Municipio, PR",93500,2019
-72045,"Comerío Municipio, PR",89700,2018
-72045,"Comerío Municipio, PR",87800,2017
-72045,"Comerío Municipio, PR",89000,2016
-72045,"Comerío Municipio, PR",92700,2015
-72045,"Comerío Municipio, PR",95000,2014
-72045,"Comerío Municipio, PR",92900,2013
+72045,"Comerï¿½o Municipio, PR",93500,2019
+72045,"Comerï¿½o Municipio, PR",89700,2018
+72045,"Comerï¿½o Municipio, PR",87800,2017
+72045,"Comerï¿½o Municipio, PR",89000,2016
+72045,"Comerï¿½o Municipio, PR",92700,2015
+72045,"Comerï¿½o Municipio, PR",95000,2014
+72045,"Comerï¿½o Municipio, PR",92900,2013
 72047,"Corozal Municipio, PR",92100,2019
 72047,"Corozal Municipio, PR",89900,2018
 72047,"Corozal Municipio, PR",88900,2017
@@ -22253,13 +22113,13 @@ County ID,County Name,Property Value (Median),Year
 72054,"Florida Municipio, PR",91300,2015
 72054,"Florida Municipio, PR",95000,2014
 72054,"Florida Municipio, PR",108700,2013
-72055,"Guánica Municipio, PR",88100,2019
-72055,"Guánica Municipio, PR",90900,2018
-72055,"Guánica Municipio, PR",87700,2017
-72055,"Guánica Municipio, PR",90000,2016
-72055,"Guánica Municipio, PR",90100,2015
-72055,"Guánica Municipio, PR",87500,2014
-72055,"Guánica Municipio, PR",86900,2013
+72055,"Guï¿½nica Municipio, PR",88100,2019
+72055,"Guï¿½nica Municipio, PR",90900,2018
+72055,"Guï¿½nica Municipio, PR",87700,2017
+72055,"Guï¿½nica Municipio, PR",90000,2016
+72055,"Guï¿½nica Municipio, PR",90100,2015
+72055,"Guï¿½nica Municipio, PR",87500,2014
+72055,"Guï¿½nica Municipio, PR",86900,2013
 72057,"Guayama Municipio, PR",86300,2019
 72057,"Guayama Municipio, PR",88900,2018
 72057,"Guayama Municipio, PR",90800,2017
@@ -22316,13 +22176,13 @@ County ID,County Name,Property Value (Median),Year
 72073,"Jayuya Municipio, PR",91700,2015
 72073,"Jayuya Municipio, PR",93000,2014
 72073,"Jayuya Municipio, PR",95200,2013
-72075,"Juana Díaz Municipio, PR",91600,2019
-72075,"Juana Díaz Municipio, PR",93300,2018
-72075,"Juana Díaz Municipio, PR",93300,2017
-72075,"Juana Díaz Municipio, PR",99000,2016
-72075,"Juana Díaz Municipio, PR",103700,2015
-72075,"Juana Díaz Municipio, PR",105500,2014
-72075,"Juana Díaz Municipio, PR",104500,2013
+72075,"Juana Dï¿½az Municipio, PR",91600,2019
+72075,"Juana Dï¿½az Municipio, PR",93300,2018
+72075,"Juana Dï¿½az Municipio, PR",93300,2017
+72075,"Juana Dï¿½az Municipio, PR",99000,2016
+72075,"Juana Dï¿½az Municipio, PR",103700,2015
+72075,"Juana Dï¿½az Municipio, PR",105500,2014
+72075,"Juana Dï¿½az Municipio, PR",104500,2013
 72077,"Juncos Municipio, PR",104300,2019
 72077,"Juncos Municipio, PR",108500,2018
 72077,"Juncos Municipio, PR",112800,2017
@@ -22344,13 +22204,13 @@ County ID,County Name,Property Value (Median),Year
 72081,"Lares Municipio, PR",91000,2015
 72081,"Lares Municipio, PR",96800,2014
 72081,"Lares Municipio, PR",96800,2013
-72083,"Las Marías Municipio, PR",84800,2019
-72083,"Las Marías Municipio, PR",83400,2018
-72083,"Las Marías Municipio, PR",73100,2017
-72083,"Las Marías Municipio, PR",75500,2016
-72083,"Las Marías Municipio, PR",80200,2015
-72083,"Las Marías Municipio, PR",89100,2014
-72083,"Las Marías Municipio, PR",83500,2013
+72083,"Las Marï¿½as Municipio, PR",84800,2019
+72083,"Las Marï¿½as Municipio, PR",83400,2018
+72083,"Las Marï¿½as Municipio, PR",73100,2017
+72083,"Las Marï¿½as Municipio, PR",75500,2016
+72083,"Las Marï¿½as Municipio, PR",80200,2015
+72083,"Las Marï¿½as Municipio, PR",89100,2014
+72083,"Las Marï¿½as Municipio, PR",83500,2013
 72085,"Las Piedras Municipio, PR",114200,2019
 72085,"Las Piedras Municipio, PR",118500,2018
 72085,"Las Piedras Municipio, PR",115600,2017
@@ -22358,13 +22218,13 @@ County ID,County Name,Property Value (Median),Year
 72085,"Las Piedras Municipio, PR",114800,2015
 72085,"Las Piedras Municipio, PR",115100,2014
 72085,"Las Piedras Municipio, PR",114500,2013
-72087,"Loíza Municipio, PR",100800,2019
-72087,"Loíza Municipio, PR",103200,2018
-72087,"Loíza Municipio, PR",105200,2017
-72087,"Loíza Municipio, PR",105500,2016
-72087,"Loíza Municipio, PR",107200,2015
-72087,"Loíza Municipio, PR",107100,2014
-72087,"Loíza Municipio, PR",106900,2013
+72087,"Loï¿½za Municipio, PR",100800,2019
+72087,"Loï¿½za Municipio, PR",103200,2018
+72087,"Loï¿½za Municipio, PR",105200,2017
+72087,"Loï¿½za Municipio, PR",105500,2016
+72087,"Loï¿½za Municipio, PR",107200,2015
+72087,"Loï¿½za Municipio, PR",107100,2014
+72087,"Loï¿½za Municipio, PR",106900,2013
 72089,"Luquillo Municipio, PR",111200,2019
 72089,"Luquillo Municipio, PR",110400,2018
 72089,"Luquillo Municipio, PR",109200,2017
@@ -22372,13 +22232,13 @@ County ID,County Name,Property Value (Median),Year
 72089,"Luquillo Municipio, PR",111000,2015
 72089,"Luquillo Municipio, PR",109900,2014
 72089,"Luquillo Municipio, PR",109700,2013
-72091,"Manatí Municipio, PR",106100,2019
-72091,"Manatí Municipio, PR",108400,2018
-72091,"Manatí Municipio, PR",106600,2017
-72091,"Manatí Municipio, PR",109600,2016
-72091,"Manatí Municipio, PR",114900,2015
-72091,"Manatí Municipio, PR",116100,2014
-72091,"Manatí Municipio, PR",113500,2013
+72091,"Manatï¿½ Municipio, PR",106100,2019
+72091,"Manatï¿½ Municipio, PR",108400,2018
+72091,"Manatï¿½ Municipio, PR",106600,2017
+72091,"Manatï¿½ Municipio, PR",109600,2016
+72091,"Manatï¿½ Municipio, PR",114900,2015
+72091,"Manatï¿½ Municipio, PR",116100,2014
+72091,"Manatï¿½ Municipio, PR",113500,2013
 72093,"Maricao Municipio, PR",79700,2019
 72093,"Maricao Municipio, PR",90800,2018
 72093,"Maricao Municipio, PR",92900,2017
@@ -22393,13 +22253,13 @@ County ID,County Name,Property Value (Median),Year
 72095,"Maunabo Municipio, PR",99200,2015
 72095,"Maunabo Municipio, PR",99800,2014
 72095,"Maunabo Municipio, PR",98200,2013
-72097,"Mayagüez Municipio, PR",96700,2019
-72097,"Mayagüez Municipio, PR",98700,2018
-72097,"Mayagüez Municipio, PR",99800,2017
-72097,"Mayagüez Municipio, PR",101400,2016
-72097,"Mayagüez Municipio, PR",100400,2015
-72097,"Mayagüez Municipio, PR",99300,2014
-72097,"Mayagüez Municipio, PR",96700,2013
+72097,"Mayagï¿½ez Municipio, PR",96700,2019
+72097,"Mayagï¿½ez Municipio, PR",98700,2018
+72097,"Mayagï¿½ez Municipio, PR",99800,2017
+72097,"Mayagï¿½ez Municipio, PR",101400,2016
+72097,"Mayagï¿½ez Municipio, PR",100400,2015
+72097,"Mayagï¿½ez Municipio, PR",99300,2014
+72097,"Mayagï¿½ez Municipio, PR",96700,2013
 72099,"Moca Municipio, PR",93800,2019
 72099,"Moca Municipio, PR",96500,2018
 72099,"Moca Municipio, PR",97300,2017
@@ -22442,13 +22302,13 @@ County ID,County Name,Property Value (Median),Year
 72109,"Patillas Municipio, PR",95400,2015
 72109,"Patillas Municipio, PR",93700,2014
 72109,"Patillas Municipio, PR",93600,2013
-72111,"Peñuelas Municipio, PR",75700,2019
-72111,"Peñuelas Municipio, PR",75000,2018
-72111,"Peñuelas Municipio, PR",76600,2017
-72111,"Peñuelas Municipio, PR",77500,2016
-72111,"Peñuelas Municipio, PR",82100,2015
-72111,"Peñuelas Municipio, PR",83800,2014
-72111,"Peñuelas Municipio, PR",86500,2013
+72111,"Peï¿½uelas Municipio, PR",75700,2019
+72111,"Peï¿½uelas Municipio, PR",75000,2018
+72111,"Peï¿½uelas Municipio, PR",76600,2017
+72111,"Peï¿½uelas Municipio, PR",77500,2016
+72111,"Peï¿½uelas Municipio, PR",82100,2015
+72111,"Peï¿½uelas Municipio, PR",83800,2014
+72111,"Peï¿½uelas Municipio, PR",86500,2013
 72113,"Ponce Municipio, PR",97400,2019
 72113,"Ponce Municipio, PR",98800,2018
 72113,"Ponce Municipio, PR",98600,2017
@@ -22463,20 +22323,20 @@ County ID,County Name,Property Value (Median),Year
 72115,"Quebradillas Municipio, PR",114400,2015
 72115,"Quebradillas Municipio, PR",119500,2014
 72115,"Quebradillas Municipio, PR",112200,2013
-72117,"Rincón Municipio, PR",122000,2019
-72117,"Rincón Municipio, PR",121500,2018
-72117,"Rincón Municipio, PR",122200,2017
-72117,"Rincón Municipio, PR",127500,2016
-72117,"Rincón Municipio, PR",127200,2015
-72117,"Rincón Municipio, PR",124800,2014
-72117,"Rincón Municipio, PR",121400,2013
-72119,"Río Grande Municipio, PR",113800,2019
-72119,"Río Grande Municipio, PR",114000,2018
-72119,"Río Grande Municipio, PR",114300,2017
-72119,"Río Grande Municipio, PR",116800,2016
-72119,"Río Grande Municipio, PR",116600,2015
-72119,"Río Grande Municipio, PR",117300,2014
-72119,"Río Grande Municipio, PR",118000,2013
+72117,"Rincï¿½n Municipio, PR",122000,2019
+72117,"Rincï¿½n Municipio, PR",121500,2018
+72117,"Rincï¿½n Municipio, PR",122200,2017
+72117,"Rincï¿½n Municipio, PR",127500,2016
+72117,"Rincï¿½n Municipio, PR",127200,2015
+72117,"Rincï¿½n Municipio, PR",124800,2014
+72117,"Rincï¿½n Municipio, PR",121400,2013
+72119,"Rï¿½o Grande Municipio, PR",113800,2019
+72119,"Rï¿½o Grande Municipio, PR",114000,2018
+72119,"Rï¿½o Grande Municipio, PR",114300,2017
+72119,"Rï¿½o Grande Municipio, PR",116800,2016
+72119,"Rï¿½o Grande Municipio, PR",116600,2015
+72119,"Rï¿½o Grande Municipio, PR",117300,2014
+72119,"Rï¿½o Grande Municipio, PR",118000,2013
 72121,"Sabana Grande Municipio, PR",95800,2019
 72121,"Sabana Grande Municipio, PR",96700,2018
 72121,"Sabana Grande Municipio, PR",95800,2017
@@ -22491,13 +22351,13 @@ County ID,County Name,Property Value (Median),Year
 72123,"Salinas Municipio, PR",85500,2015
 72123,"Salinas Municipio, PR",85500,2014
 72123,"Salinas Municipio, PR",85800,2013
-72125,"San Germán Municipio, PR",82300,2019
-72125,"San Germán Municipio, PR",90300,2018
-72125,"San Germán Municipio, PR",94800,2017
-72125,"San Germán Municipio, PR",101600,2016
-72125,"San Germán Municipio, PR",106800,2015
-72125,"San Germán Municipio, PR",108500,2014
-72125,"San Germán Municipio, PR",98300,2013
+72125,"San Germï¿½n Municipio, PR",82300,2019
+72125,"San Germï¿½n Municipio, PR",90300,2018
+72125,"San Germï¿½n Municipio, PR",94800,2017
+72125,"San Germï¿½n Municipio, PR",101600,2016
+72125,"San Germï¿½n Municipio, PR",106800,2015
+72125,"San Germï¿½n Municipio, PR",108500,2014
+72125,"San Germï¿½n Municipio, PR",98300,2013
 72127,"San Juan Municipio, PR",151700,2019
 72127,"San Juan Municipio, PR",153500,2018
 72127,"San Juan Municipio, PR",146100,2017
@@ -22512,13 +22372,13 @@ County ID,County Name,Property Value (Median),Year
 72129,"San Lorenzo Municipio, PR",119200,2015
 72129,"San Lorenzo Municipio, PR",125400,2014
 72129,"San Lorenzo Municipio, PR",132300,2013
-72131,"San Sebastián Municipio, PR",98400,2019
-72131,"San Sebastián Municipio, PR",97800,2018
-72131,"San Sebastián Municipio, PR",99900,2017
-72131,"San Sebastián Municipio, PR",103400,2016
-72131,"San Sebastián Municipio, PR",109700,2015
-72131,"San Sebastián Municipio, PR",111800,2014
-72131,"San Sebastián Municipio, PR",113100,2013
+72131,"San Sebastiï¿½n Municipio, PR",98400,2019
+72131,"San Sebastiï¿½n Municipio, PR",97800,2018
+72131,"San Sebastiï¿½n Municipio, PR",99900,2017
+72131,"San Sebastiï¿½n Municipio, PR",103400,2016
+72131,"San Sebastiï¿½n Municipio, PR",109700,2015
+72131,"San Sebastiï¿½n Municipio, PR",111800,2014
+72131,"San Sebastiï¿½n Municipio, PR",113100,2013
 72133,"Santa Isabel Municipio, PR",93500,2019
 72133,"Santa Isabel Municipio, PR",92400,2018
 72133,"Santa Isabel Municipio, PR",92800,2017
@@ -22596,24 +22456,3 @@ County ID,County Name,Property Value (Median),Year
 72153,"Yauco Municipio, PR",92700,2015
 72153,"Yauco Municipio, PR",93700,2014
 72153,"Yauco Municipio, PR",93700,2013
-78010,N/A,26011018223,2019
-78010,N/A,24761914673,2018
-78010,N/A,23555878911,2017
-78010,N/A,22540989893,2016
-78010,N/A,21820842355,2015
-78010,N/A,21333036637,2014
-78010,N/A,21356679795,2013
-78020,N/A,26011018223,2019
-78020,N/A,24761914673,2018
-78020,N/A,23555878911,2017
-78020,N/A,22540989893,2016
-78020,N/A,21820842355,2015
-78020,N/A,21333036637,2014
-78020,N/A,21356679795,2013
-78030,N/A,26011018223,2019
-78030,N/A,24761914673,2018
-78030,N/A,23555878911,2017
-78030,N/A,22540989893,2016
-78030,N/A,21820842355,2015
-78030,N/A,21333036637,2014
-78030,N/A,21356679795,2013
